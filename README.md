@@ -6,10 +6,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ChanooKim/Azure-SOC)
 - <b>Python Scripting</b>
   - [Threat Indicator Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Coding Projects</b>
   - [Weather Application (React, JavaScript)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>CTF Walkthroughs</b>
+  - [TryHackMe: Basic Pentesting](https://medium.com/@John_ee/tryhackme-basic-pentesting-guide-9ce562f939c7)
