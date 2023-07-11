@@ -4,7 +4,7 @@
 
 - <b>Cloud Projects (Azure, AWS) </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ChanooKim/Azure-SOC)
-- <b>Python</b>
+- <b>Python Scripting</b>
   - [Threat Indicator Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
