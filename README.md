@@ -7,6 +7,6 @@
 - <b>Python Scripting</b>
   - [Threat Indicator Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Coding Projects</b>
-  - [Weather Application (React, JavaScript)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Weather Application (React, JavaScript)](https://github.com/ChanooKim/React_weatherApp) 
 - <b>CTF Walkthroughs</b>
   - [TryHackMe: Basic Pentesting](https://medium.com/@John_ee/tryhackme-basic-pentesting-guide-9ce562f939c7)
