@@ -5,7 +5,7 @@
 - <b>Cloud Projects (Azure, AWS) </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ChanooKim/Azure-SOC)
 - <b>Python Scripting</b>
-  - [Threat Indicator Automation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Threat Indicator Automation](https://github.com/) 
 - <b>Coding Projects</b>
   - [Weather Application (React, JavaScript)](https://github.com/ChanooKim/React_weatherApp) 
 - <b>CTF Walkthroughs</b>
