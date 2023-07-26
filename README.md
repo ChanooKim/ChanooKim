@@ -4,6 +4,7 @@
 
 - <b>Cloud Projects (Azure, AWS) </b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ChanooKim/Azure-SOC)
+  - [AWS Single Sign On Integration With Okta](https://github.com/ChanooKim/AWS-SSO-Integration-with-Okta)
 - <b>Python Scripting</b>
   - [Threat Indicator Automation](https://github.com/) 
 - <b>Coding Projects</b>
