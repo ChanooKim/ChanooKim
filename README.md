@@ -14,3 +14,6 @@
   - [Weather Application (React, JavaScript)](https://github.com/ChanooKim/React_weatherApp) 
 - <b>CTF Walkthroughs</b>
   - [TryHackMe: Basic Pentesting](https://medium.com/@John_ee/tryhackme-basic-pentesting-guide-9ce562f939c7)
+
+<h3>📝 Blog</h3>
+ - <b> href="https://medium.com/@John_ee">Medium </b>
