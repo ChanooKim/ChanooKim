@@ -1,4 +1,7 @@
-<h1>Hi, I'm John! Passionate Cybersecurity Analyst<br/><a href="https://www.linkedin.com/in/johnkerikson/">LinkedIn</a></h1>
+<h1>Hi, I'm John! Passionate Cybersecurity Analyst<br/>
+  <a href="https://www.linkedin.com/in/johnkerikson/">LinkedIn</a> | 
+  <a href="https://medium.com/@John_ee">Medium</a>
+</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
