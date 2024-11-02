@@ -16,4 +16,4 @@
   - [TryHackMe: Basic Pentesting](https://medium.com/@John_ee/tryhackme-basic-pentesting-guide-9ce562f939c7)
 
 <h3>📝 Blog</h3>
- - <b> href="https://medium.com/@John_ee">Medium </b>
+ - <b> [Medium](https://medium.com/@John_ee)) </b>
